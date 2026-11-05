@@ -1,0 +1,9 @@
+node_modules
+.next
+out
+*.tsbuildinfo
+next-env.d.ts
+.env*.local
+
+# Original WhatsApp photos (processed copies live in public/images; two contain a third-party watermark)
+Twincityappartmentsimages/
