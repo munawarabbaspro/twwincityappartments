@@ -49,7 +49,7 @@ npm run seo-check  # with the site running: crawls every sitemap URL and checks 
 
 1. Confirm the domain in `lib/site.ts` (`SITE.url`) and `next.config.ts` (www redirect).
 2. Add the exact street address to `SITE.address`; keep it identical on Google Business Profile, Bing Places and Apple Business Connect.
-3. Deploy (e.g. Vercel), attach the domain, force HTTPS.
+3. Deploy on Vercel: import the GitHub repo (settings come from `vercel.json`), add the domain, set www → apex.
 4. Google Search Console: verify the Domain property by DNS TXT, submit `/sitemap.xml`, request indexing for the top 20 pages.
 5. Bing Webmaster Tools: import from Search Console, submit the sitemap. Create the Bing Places listing.
 6. Google Business Profile: category "Guest house" (primary), "Apartment rental agency" (secondary), 20+ photos, link to `/book-now/`.
