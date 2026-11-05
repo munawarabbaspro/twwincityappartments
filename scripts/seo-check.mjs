@@ -1,7 +1,7 @@
 // Crawls every URL in the sitemaps on a running server and checks core SEO rules.
 // Usage: npm run build && npm start, then: node scripts/seo-check.mjs http://localhost:3000
 const BASE = process.argv[2] ?? 'http://localhost:3000';
-const SITE = 'https://twincityappartments.com';
+const SITE = 'https://www.twincityapartments.pk';
 
 const get = (p, opts) => fetch(BASE + p, { redirect: 'manual', ...opts });
 const problems = [];

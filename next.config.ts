@@ -28,11 +28,11 @@ const nextConfig: NextConfig = {
   },
   async redirects() {
     return [
-      // One canonical host: www -> apex (keep in sync with SITE.url in lib/site.ts)
+      // One canonical host: apex -> www (matches Vercel's domain setting and SITE.url in lib/site.ts)
       {
         source: '/:path*',
-        has: [{ type: 'host', value: 'www.twincityappartments.com' }],
-        destination: 'https://twincityappartments.com/:path*',
+        has: [{ type: 'host', value: 'twincityapartments.pk' }],
+        destination: 'https://www.twincityapartments.pk/:path*',
         permanent: true,
       },
     ];

@@ -4,7 +4,8 @@
 export const SITE = {
   name: 'TwinCity Appartments',
   shortName: 'TwinCity',
-  url: 'https://twincityappartments.com', // no trailing slash, https only
+  // Canonical host = the one Vercel serves (apex redirects to www). No trailing slash, https only.
+  url: 'https://www.twincityapartments.pk',
   locale: 'en_PK',
   phoneDisplay: '0313-0539832',
   phoneIntl: '+923130539832',
