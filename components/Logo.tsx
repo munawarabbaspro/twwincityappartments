@@ -1,4 +1,4 @@
-import Link from 'next/link';
+import Link from '@/components/AppLink';
 import { SITE } from '@/lib/site';
 
 /** TwinCity monogram: two arches (the twin cities) inside a ring, with a spaced wordmark. */

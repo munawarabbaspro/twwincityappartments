@@ -1,6 +1,6 @@
 import StaticPage from '@/components/StaticPage';
 import { Gallery } from '@/components/Blocks';
-import { SETS, img } from '@/lib/images';
+import { SETS, img, absImg } from '@/lib/images';
 import { pageMeta } from '@/lib/seo';
 import { SITE } from '@/lib/site';
 
@@ -22,7 +22,7 @@ export default function GalleryPage() {
     '@context': 'https://schema.org',
     '@type': 'ImageGallery',
     name: `${SITE.name} photo gallery`,
-    image: all.map((k) => ({ '@type': 'ImageObject', contentUrl: `${SITE.url}${img(k).src}`, caption: img(k).alt })),
+    image: all.map((k) => ({ '@type': 'ImageObject', contentUrl: `${absImg(img(k).src, SITE.url)}`, caption: img(k).alt })),
   };
   return (
     <StaticPage path="/gallery/" label="Gallery" h1="Photo Gallery" lead="Real, unedited photos of our rooms and apartments. What you see is what you get." image="luxury-lounge-curved-sofa" title={title} description={description} extraLd={[imageLd]} wide>

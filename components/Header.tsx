@@ -1,5 +1,5 @@
 import Image from 'next/image';
-import Link from 'next/link';
+import Link from '@/components/AppLink';
 import { ArrowUpRight, ChevronDown, Phone } from 'lucide-react';
 import { HUBS, LOCATIONS, EVENTS, INTENTS } from '@/data';
 import { SITE, telLink } from '@/lib/site';

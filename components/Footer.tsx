@@ -1,4 +1,4 @@
-import Link from 'next/link';
+import Link from '@/components/AppLink';
 import { ArrowUpRight, Clock, Mail, MapPin, Phone } from 'lucide-react';
 import { LOCATIONS, HUBS, EVENTS } from '@/data';
 import { SITE, telLink, waLink } from '@/lib/site';

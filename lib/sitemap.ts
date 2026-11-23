@@ -1,6 +1,6 @@
 import { SITE } from './site';
 import { ALL_CONTENT, LISTINGS, POSTS, STATIC_PAGES } from '@/data';
-import { img } from './images';
+import { img, absImg } from './images';
 
 export const LASTMOD = '2026-11-05';
 
@@ -13,7 +13,7 @@ export function urlset(entries: Entry[]) {
     .map((e) => {
       const imgs = (e.images ?? [])
         .slice(0, 6)
-        .map((k) => `<image:image><image:loc>${SITE.url}${img(k).src}</image:loc></image:image>`)
+        .map((k) => `<image:image><image:loc>${absImg(img(k).src, SITE.url)}</image:loc></image:image>`)
         .join('');
       return `<url><loc>${esc(SITE.url + e.path)}</loc><lastmod>${LASTMOD}</lastmod><changefreq>${e.changefreq}</changefreq><priority>${e.priority.toFixed(1)}</priority>${imgs}</url>`;
     })

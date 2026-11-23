@@ -1,5 +1,5 @@
 import Image from 'next/image';
-import Link from 'next/link';
+import Link from '@/components/AppLink';
 import StaticPage from '@/components/StaticPage';
 import { Amenities, TrustRow } from '@/components/Blocks';
 import { pageMeta } from '@/lib/seo';

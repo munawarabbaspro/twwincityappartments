@@ -1,5 +1,5 @@
 import Image from 'next/image';
-import Link from 'next/link';
+import Link from '@/components/AppLink';
 import { ArrowRight, ArrowUpRight } from 'lucide-react';
 import { HUBS, LOCATIONS, EVENTS, LISTINGS, POSTS } from '@/data';
 import { img, SETS } from '@/lib/images';

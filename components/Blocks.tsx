@@ -1,5 +1,5 @@
 import Image from 'next/image';
-import Link from 'next/link';
+import Link from '@/components/AppLink';
 import type { ReactNode } from 'react';
 import {
   ArrowRight, ArrowUpRight, Bath, BedDouble, Car, ChefHat, Coffee, Droplets, KeyRound, Lock, Phone, Plus,

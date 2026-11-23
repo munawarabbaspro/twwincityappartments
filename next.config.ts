@@ -14,8 +14,7 @@ const nextConfig: NextConfig = {
   trailingSlash: true,
   poweredByHeader: false,
   images: {
-    formats: ['image/avif', 'image/webp'],
-    minimumCacheTTL: 2678400,
+    unoptimized: true, // pre-sized WebP served from CDN; no Vercel Image Optimization
   },
   async headers() {
     return [

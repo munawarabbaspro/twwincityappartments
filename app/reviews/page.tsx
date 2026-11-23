@@ -1,4 +1,4 @@
-import Link from 'next/link';
+import Link from '@/components/AppLink';
 import { ArrowUpRight } from 'lucide-react';
 import StaticPage from '@/components/StaticPage';
 import { WaButton } from '@/components/Blocks';

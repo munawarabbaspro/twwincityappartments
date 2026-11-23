@@ -1,5 +1,5 @@
 import Image from 'next/image';
-import Link from 'next/link';
+import Link from '@/components/AppLink';
 import type { Listing } from '@/lib/types';
 import { img } from '@/lib/images';
 

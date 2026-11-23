@@ -1,4 +1,4 @@
-import Link from 'next/link';
+import Link from '@/components/AppLink';
 import type { PageDef } from '@/lib/types';
 import { breadcrumbTrail, linkFor, LISTINGS } from '@/data';
 import { img } from '@/lib/images';

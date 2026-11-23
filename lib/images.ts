@@ -1,4 +1,5 @@
 import sizes from '@/data/image-sizes.json';
+import { asset } from '@/lib/asset';
 
 export type Img = { src: string; alt: string; width: number; height: number };
 
@@ -41,13 +42,16 @@ const ALT: Record<string, string> = {
 export const IMAGES: Record<string, Img> = Object.fromEntries(
   Object.entries(sizes as Record<string, { width: number; height: number }>).map(([k, v]) => [
     k,
-    { src: `/images/${k}.webp`, alt: ALT[k] ?? k.replace(/-/g, ' '), width: v.width, height: v.height },
+    { src: asset(`/images/${k}.webp`), alt: ALT[k] ?? k.replace(/-/g, ' '), width: v.width, height: v.height },
   ]),
 );
 
 export const ALL_IMAGE_KEYS = Object.keys(IMAGES);
 
 export const img = (key: string): Img => IMAGES[key] ?? IMAGES['luxury-living-room-tv-wall'];
+
+/** Absolute URL for an image src (works with or without the asset CDN). */
+export const absImg = (src: string, base: string): string => (src.startsWith('http') ? src : base + src);
 
 // Image sets by theme, used to give every page its own photo selection
 export const SETS = {

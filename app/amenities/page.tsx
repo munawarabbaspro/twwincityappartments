@@ -1,4 +1,4 @@
-import Link from 'next/link';
+import Link from '@/components/AppLink';
 import StaticPage from '@/components/StaticPage';
 import { Amenities, Gallery } from '@/components/Blocks';
 import { pageMeta } from '@/lib/seo';
