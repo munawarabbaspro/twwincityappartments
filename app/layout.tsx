@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   metadataBase: new URL(SITE.url),
   applicationName: SITE.name,
   title: { default: `Daily Rental Rooms & Apartments in Bahria Town | ${SITE.name}`, template: `%s | ${SITE.name}` },
-  description: 'Daily, short-time, weekly and monthly furnished rooms and apartments in Bahria Town Rawalpindi & Islamabad. Book on WhatsApp 0313-0539832.',
+  description: 'Daily, short-time, weekly and monthly furnished rooms and apartments in Bahria Town Rawalpindi & Islamabad. Book on WhatsApp 0319-9193124.',
   authors: [{ name: SITE.name, url: SITE.url }],
   creator: SITE.name,
   publisher: SITE.name,
