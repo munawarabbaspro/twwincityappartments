@@ -9,7 +9,7 @@ export const SITE = {
   locale: 'en_PK',
   phoneDisplay: '0313-0539832',
   phoneIntl: '+923130539832',
-  whatsapp: '923130539832',
+  whatsapp: '923199193124',
   emailInfo: 'info@twincityappart.com',
   emailBooking: 'booking@twincityappartments.com',
   address: {
