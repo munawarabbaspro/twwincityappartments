@@ -24,7 +24,7 @@ type Area = {
 const AREAS: Area[] = [
   {
     slug: 'bahria-town-phase-1', name: 'Bahria Town Phase 1', short: 'Phase 1',
-    title: 'Rooms & Apartments in Bahria Town Phase 1',
+    title: 'Flats & Rooms for Rent in Bahria Town Phase 1 Rawalpindi',
     description: 'Daily and monthly rooms and apartments in Bahria Town Phase 1, Rawalpindi. Quiet residential stays close to the main boulevard. From Rs 4,500. Book now.',
     h1: 'Stay in Bahria Town Phase 1', keyword: 'Bahria Town Phase 1 rooms', secondary: ['Phase 1 guest house', 'Phase 1 apartment rent'],
     character: 'Phase 1 is one of the original, fully settled parts of Bahria Town Rawalpindi. Streets are mature and tree-lined, houses are well established and the pace is calm. It suits guests who want a quiet, residential feel while staying close to the main boulevard and the older commercial areas.',
@@ -41,7 +41,7 @@ const AREAS: Area[] = [
   },
   {
     slug: 'bahria-town-phase-2', name: 'Bahria Town Phase 2', short: 'Phase 2',
-    title: 'Rooms & Apartments in Bahria Town Phase 2',
+    title: 'Flats & Rooms for Rent in Bahria Town Phase 2 Rawalpindi',
     description: 'Furnished rooms and apartments for rent per day in Bahria Town Phase 2. Family friendly, parking, backup power. See photos, prices and book on WhatsApp.',
     h1: 'Stay in Bahria Town Phase 2', keyword: 'Bahria Town Phase 2 rooms', secondary: ['Phase 2 apartment per day', 'Phase 2 guest house'],
     character: 'Phase 2 is a compact, family-oriented sector between Phase 1 and Phase 3. It has neighbourhood shops, parks and mosques within walking distance, and the streets stay peaceful at night, which is why families visiting for weddings or hospital visits often choose it.',
@@ -58,7 +58,7 @@ const AREAS: Area[] = [
   },
   {
     slug: 'bahria-town-phase-3', name: 'Bahria Town Phase 3', short: 'Phase 3',
-    title: 'Rooms & Apartments in Bahria Town Phase 3',
+    title: 'Flats & Rooms for Rent in Bahria Town Phase 3 Rawalpindi',
     description: 'Book daily rooms and apartments in Bahria Town Phase 3. Clean, secure stays with Wi-Fi and parking. Short time, per night, weekly and monthly rates.',
     h1: 'Stay in Bahria Town Phase 3', keyword: 'Bahria Town Phase 3 rooms', secondary: ['Phase 3 guest house', 'Phase 3 rent per day'],
     character: 'Phase 3 sits in the middle of the older phases, next door to Phase 4 and its Civic Center. That makes it a practical base: quieter than the commercial core, yet close enough to walk or take a short ride to restaurants, banks and shops.',
@@ -75,9 +75,9 @@ const AREAS: Area[] = [
   },
   {
     slug: 'bahria-town-phase-4', name: 'Bahria Town Phase 4', short: 'Phase 4',
-    title: 'Rooms & Apartments in Bahria Town Phase 4',
+    title: 'Flats & Rooms for Rent in Bahria Town Phase 4 Rawalpindi',
     description: 'Daily rooms and apartments in Bahria Town Phase 4, near Civic Center restaurants and shops. Single, double and family stays. Book on WhatsApp today.',
-    h1: 'Stay in Bahria Town Phase 4', keyword: 'Bahria Town Phase 4 rooms', secondary: ['Phase 4 apartments per day', 'Phase 4 guest house'],
+    h1: 'Stay in Bahria Town Phase 4', keyword: 'Bahria Town Phase 4 rooms', secondary: ['flats for rent in Bahria Town Phase 4', 'Airbnb Bahria Town Phase 4 Rawalpindi', 'studio flat for rent in Phase 4 Bahria Town', 'Phase 4 apartments per day', 'Phase 4 guest house'],
     character: 'Phase 4 is home to Civic Center, the busiest commercial hub of the older Bahria Town phases. High-rise apartment buildings surround a square full of restaurants, cafés, banks, offices and shops, so everything you need is downstairs. It is the top choice for short stays, business trips and anyone who likes being in the middle of things.',
     goodFor: ['Business travellers and meetings', 'Guests who want food and shopping on foot', 'Short-time and one-night stays', 'Couples and honeymooners'],
     getting: 'Phase 4 connects to the Expressway side of Bahria Town and to Phases 3 and 5–7 by the main roads. Ride-hailing pickups are easy around Civic Center.',
@@ -93,7 +93,7 @@ const AREAS: Area[] = [
   },
   {
     slug: 'bahria-town-phase-5', name: 'Bahria Town Phase 5', short: 'Phase 5',
-    title: 'Rooms & Apartments in Bahria Town Phase 5',
+    title: 'Flats & Rooms for Rent in Bahria Town Phase 5 Rawalpindi',
     description: 'Affordable daily and monthly rooms in Bahria Town Phase 5, Rawalpindi. Furnished, secure and family friendly. Check prices from Rs 4,500 and book.',
     h1: 'Stay in Bahria Town Phase 5', keyword: 'Bahria Town Phase 5 rooms', secondary: ['Phase 5 apartment rent', 'Phase 5 guest house'],
     character: 'Phase 5 is a residential sector that often offers better value than the busy Civic Center area next door. Guests get the same Bahria Town security and services with a little more space and quiet, which makes it a good pick for longer stays on a budget.',
@@ -104,13 +104,13 @@ const AREAS: Area[] = [
       { q: 'Is Phase 5 cheaper than Phase 4?', a: 'Monthly rents in Phase 5 are often a little lower than around Civic Center, with the same amenities.' },
       { q: 'Can students rent monthly in Phase 5?', a: 'Yes, monthly single rooms start from Rs 55,000.' },
       { q: 'Is there backup power?', a: 'Yes, every TwinCity stay has generator or UPS backup.' },
-      { q: 'How do I book in Phase 5?', a: 'WhatsApp 0313-0539832 with your dates and number of guests.' },
+      { q: 'How do I book in Phase 5?', a: 'WhatsApp 0319-9193124 with your dates and number of guests.' },
     ],
     related: ['cheap-rooms-bahria-town', 'rooms-for-students', 'bahria-town-phase-4', 'bahria-town-phase-6'],
   },
   {
     slug: 'bahria-town-phase-6', name: 'Bahria Town Phase 6', short: 'Phase 6',
-    title: 'Rooms & Apartments in Bahria Town Phase 6',
+    title: 'Flats & Rooms for Rent in Bahria Town Phase 6 Rawalpindi',
     description: 'Book rooms and furnished apartments in Bahria Town Phase 6 by the day, week or month. AC, Wi-Fi, parking and backup power included. See prices.',
     h1: 'Stay in Bahria Town Phase 6', keyword: 'Bahria Town Phase 6 rooms', secondary: ['Phase 6 apartment per day', 'Phase 6 guest house'],
     character: 'Phase 6 is a well-planned residential sector with its own markets and easy links to Phase 7. It balances the calm of a residential area with quick access to the newer commercial spots, a good fit for families and weekly guests.',
@@ -128,9 +128,9 @@ const AREAS: Area[] = [
   },
   {
     slug: 'bahria-town-phase-7', name: 'Bahria Town Phase 7', short: 'Phase 7',
-    title: 'Rooms & Apartments in Bahria Town Phase 7',
-    description: 'Daily rooms and apartments in Bahria Town Phase 7 near Spring North and main commercial areas. Single, double and family options. Book on WhatsApp now.',
-    h1: 'Stay in Bahria Town Phase 7', keyword: 'Bahria Town Phase 7 rooms', secondary: ['Phase 7 apartments per day', 'Phase 7 guest house', 'Spring North rooms'],
+    title: 'Flats & Rooms for Rent in Bahria Town Phase 7 Rawalpindi',
+    description: 'Furnished 1 & 2 bedroom flats, Airbnb-style apartments and single rooms for rent in Bahria Town Phase 7 near Spring North. Per day, weekly and monthly.',
+    h1: 'Stay in Bahria Town Phase 7', keyword: 'Bahria Town Phase 7 rooms', secondary: ['flats for rent in Bahria Town Rawalpindi Phase 7', '1 bedroom apartment for rent in Bahria Town Phase 7', 'single room for rent in Bahria Phase 7', 'Airbnb Bahria Town Phase 7 Rawalpindi', 'Phase 7 apartments per day', 'Phase 7 guest house', 'Spring North rooms'],
     character: 'Phase 7 is the bridge between the older phases and Phase 8. Its Spring North commercial area packs restaurants, cafés and shops close together, and modern apartment buildings line the main roads. Many of our guests say Phase 7 gives the best mix of convenience and calm.',
     goodFor: ['Couples and families', 'Food lovers who want restaurants nearby', '1 and 2 bed apartment stays', 'Weekly and monthly stays'],
     getting: 'Phase 7 has good road links to the Expressway and onward to Phase 8 and the GT Road side, making it a convenient base for both Islamabad and Rawalpindi.',
@@ -146,9 +146,9 @@ const AREAS: Area[] = [
   },
   {
     slug: 'bahria-town-phase-8', name: 'Bahria Town Phase 8', short: 'Phase 8',
-    title: 'Rooms & Apartments in Bahria Town Phase 8',
-    description: 'Furnished rooms and apartments for rent per day in Bahria Town Phase 8, close to GT Road and the Expressway. Family stays, parking, backup power. Book today.',
-    h1: 'Stay in Bahria Town Phase 8', keyword: 'Bahria Town Phase 8 rooms', secondary: ['Phase 8 apartment rent', 'Phase 8 guest house', '2 bed apartment for rent bahria town phase 8'],
+    title: 'Flats & Rooms for Rent in Bahria Town Phase 8 Rawalpindi',
+    description: 'Furnished flats, 2 bedroom apartments and Airbnb-style stays for rent in Bahria Town Phase 8, near GT Road. Per day, weekly and monthly. Parking, backup power.',
+    h1: 'Stay in Bahria Town Phase 8', keyword: 'Bahria Town Phase 8 rooms', secondary: ['flats for rent in Bahria Town Rawalpindi Phase 8', 'Airbnb Bahria Town Phase 8 Rawalpindi', '2 bed apartment for rent bahria town phase 8', 'Phase 8 apartment rent', 'Phase 8 guest house'],
     character: 'Phase 8 is the largest and newest part of Bahria Town Rawalpindi, with wide roads, new apartment towers, Safari Valley and several sub-sectors. It sits on the GT Road side, so it is the easiest phase to reach for guests driving in from Lahore, Jhelum or Peshawar.',
     goodFor: ['Road travellers on GT Road', 'Families wanting newer buildings', 'Large groups and wedding guests', 'Monthly stays'],
     getting: 'Phase 8 has access toward GT Road and links back to Phase 7 and the Expressway, so you can reach both Rawalpindi and Islamabad without crossing the city centre.',
@@ -183,7 +183,7 @@ const AREAS: Area[] = [
     slug: 'bahria-enclave-islamabad', name: 'Bahria Enclave Islamabad', short: 'Bahria Enclave',
     title: 'Rooms & Apartments in Bahria Enclave Islamabad',
     description: 'Daily and monthly rooms and apartments in Bahria Enclave Islamabad. Green, quiet stays with parking and Wi-Fi. Compare prices and book on WhatsApp.',
-    h1: 'Stay in Bahria Enclave Islamabad', keyword: 'Bahria Enclave rooms', secondary: ['Bahria Enclave apartment rent', 'guest house Bahria Enclave', 'apartments in bahria enclave islamabad'],
+    h1: 'Stay in Bahria Enclave Islamabad', keyword: 'Bahria Enclave rooms', secondary: ['Bahria Town Islamabad apartments for rent', 'Airbnb Bahria Town Islamabad', 'Bahria Enclave apartment rent', 'guest house Bahria Enclave', 'apartments in bahria enclave islamabad'],
     character: 'Bahria Enclave is Bahria\'s Islamabad community, set among green hills on the city\'s quieter side. It feels more like a resort than a city sector, which makes it a favourite for honeymooners, families on holiday and anyone who wants fresh air within reach of Islamabad.',
     goodFor: ['Honeymoon and holiday stays', 'Families wanting a scenic setting', 'Guests with work in Islamabad'],
     getting: 'Bahria Enclave is on the Islamabad side and is reached by road from the city. It is a separate community from Bahria Town Rawalpindi, so allow extra time if you plan to visit both.',
@@ -209,7 +209,7 @@ const AREAS: Area[] = [
       { q: 'Are rents lower on the western side?', a: 'Monthly rents on newer, developing sides are often lower than around Civic Center or Spring North.' },
       { q: 'Do I need a car?', a: 'A car or ride-hailing app is recommended for newer areas.' },
       { q: 'Are daily stays available?', a: 'Yes, per night and short time stays are available subject to availability.' },
-      { q: 'How do I check availability?', a: 'WhatsApp 0313-0539832 with your dates.' },
+      { q: 'How do I check availability?', a: 'WhatsApp 0319-9193124 with your dates.' },
     ],
     related: ['monthly-rentals', 'cheap-rooms-bahria-town', 'bahria-town-phase-8', 'rooms-with-parking'],
   },
@@ -287,7 +287,7 @@ function areaPage(a: Area): PageDef {
     keyword: a.keyword,
     secondary: a.secondary,
     parent: 'bahria-town',
-    answer: `TwinCity Appartments has furnished rooms and apartments in and around ${a.name}. Short-time stays start at Rs 4,500, a full night is Rs 6,000 (single) or Rs 14,500 (double), and monthly rent starts at Rs 55,000. Book on WhatsApp at 0313-0539832.`,
+    answer: `TwinCity Appartments has furnished rooms and apartments in and around ${a.name}. Short-time stays start at Rs 4,500, a full night is Rs 6,000 (single) or Rs 14,500 (double), and monthly rent starts at Rs 55,000. Book on WhatsApp at 0319-9193124.`,
     intro: [
       a.character,
       `Our ${a.short} stays come with the TwinCity standard: an attached bathroom, AC, Wi-Fi, backup power, parking and breakfast or food on demand. Book for a few hours, a night, a week or a month.`,
@@ -312,7 +312,7 @@ const TYPES = {
   'daily-rooms': {
     label: 'Daily Rooms',
     kw: (s: string) => `room per day ${s} Bahria Town`,
-    sec: (s: string) => [`single bed room ${s}`, `double room ${s}`],
+    sec: (s: string) => [`single room for rent in Bahria ${s}`, `per day room for rent Bahria Town ${s}`, `double room ${s}`],
     body: 'Single and double bed rooms with attached bath, AC, Wi-Fi and backup power, rented by short time (2–4 hours), per night or per day.',
     bullets: ['Single bed: Rs 4,500 short time / Rs 6,000 night', 'Double bed: Rs 5,500 short time / Rs 14,500 night', 'Fresh linen and toiletries', 'Breakfast on demand'],
     prices: ['short', 'night'] as const,
@@ -320,8 +320,8 @@ const TYPES = {
   },
   apartments: {
     label: 'Apartments',
-    kw: (s: string) => `apartment per day ${s} Bahria Town`,
-    sec: (s: string) => [`${s} apartment monthly`, `family apartment ${s}`, `1 bed flat for rent in bahria town ${s.toLowerCase()}`],
+    kw: (s: string) => `flats for rent in Bahria Town ${s}`,
+    sec: (s: string) => [`apartment per day ${s} Bahria Town`, `1 bedroom apartment for rent in Bahria Town ${s}`, `Airbnb Bahria Town ${s} Rawalpindi`, `${s} apartment monthly`, `family apartment ${s}`],
     body: 'Furnished 1, 2 and 3 bed apartments with a lounge, kitchen, Wi-Fi, backup power and parking, available per day, per week or per month.',
     bullets: ['1, 2 and 3 bedroom layouts', 'Equipped kitchen', 'TV lounge and dining', 'Monthly from Rs 55,000 (single) / Rs 100,000 (double)'],
     prices: ['apartment', 'monthly'] as const,
@@ -358,14 +358,14 @@ function subPage(a: Area, t: keyof typeof TYPES): PageDef {
   const slug = `${a.slug}/${t}`;
   const titles: Record<string, [string, string, string]> = {
     'daily-rooms': [
-      `Daily Rooms in Bahria Town ${a.short} – Single & Double`,
-      `Single and double bed rooms per day in Bahria Town ${a.short}. Attached bath, AC, Wi-Fi. Short time from Rs 4,500, nights from Rs 6,000. Book on WhatsApp.`,
+      `Per Day Rooms for Rent in Bahria Town ${a.short} Rawalpindi`,
+      `Single and double rooms for rent per day in Bahria Town ${a.short}, Rawalpindi. Attached bath, AC, Wi-Fi. Short time Rs 4,500, nights from Rs 6,000. WhatsApp now.`,
       `Daily Rooms in Bahria Town ${a.short}`,
     ],
     apartments: [
-      `Apartments Per Day in Bahria Town ${a.short}`,
-      `1, 2 and 3 bed furnished apartments for daily or monthly rent in Bahria Town ${a.short}. Kitchen, lounge, parking. Ideal for families. Book now.`,
-      `Furnished Apartments in ${a.short}`,
+      `Furnished Flats for Rent in Bahria Town ${a.short} – Per Day`,
+      `1, 2 and 3 bedroom furnished flats and Airbnb-style apartments for rent in Bahria Town ${a.short}, per day or monthly. Kitchen, lounge, parking. Book now.`,
+      `Furnished Flats & Apartments in ${a.short}`,
     ],
     'guest-house': [
       `Guest House in Bahria Town ${a.short}`,
@@ -384,7 +384,7 @@ function subPage(a: Area, t: keyof typeof TYPES): PageDef {
     keyword: T.kw(a.short),
     secondary: T.sec(a.short),
     parent: a.slug,
-    answer: `TwinCity Appartments offers ${T.label.toLowerCase()} in Bahria Town ${a.short}. ${T.body} Book on WhatsApp at 0313-0539832.`,
+    answer: `TwinCity Appartments offers ${T.label.toLowerCase()} in Bahria Town ${a.short}. ${T.body} Book on WhatsApp at 0319-9193124.`,
     intro: [SUB_INTRO[slug], a.character.split('. ').slice(0, 2).join('. ') + '.'],
     sections: [
       { h2: `${T.label} in ${a.short}: what you get`, p: [T.body], bullets: T.bullets },
@@ -393,7 +393,7 @@ function subPage(a: Area, t: keyof typeof TYPES): PageDef {
     ],
     faqs: [
       { q: `How much is ${T.label.toLowerCase()} in Bahria Town ${a.short}?`, a: t === 'apartments' ? 'Full apartments are quoted on WhatsApp at our best rates. Rooms are Rs 6,000 (single) and Rs 14,500 (double) per night; monthly from Rs 55,000.' : 'Short time (2–4 hours) is Rs 4,500 single / Rs 5,500 double. A full night is Rs 6,000 single / Rs 14,500 double.' },
-      { q: `Can I book ${T.label.toLowerCase()} in ${a.short} today?`, a: 'Yes, same-day bookings are possible subject to availability. WhatsApp 0313-0539832.' },
+      { q: `Can I book ${T.label.toLowerCase()} in ${a.short} today?`, a: 'Yes, same-day bookings are possible subject to availability. WhatsApp 0319-9193124.' },
       ...a.faqs.slice(0, 2),
       { q: 'What do I need at check-in?', a: 'An original CNIC (or passport) for every adult guest. Payment is made on arrival for most bookings.' },
     ],
