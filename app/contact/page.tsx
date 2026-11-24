@@ -5,7 +5,7 @@ import { lodgingLd, pageMeta } from '@/lib/seo';
 import { SITE, telLink, waLink } from '@/lib/site';
 
 const title = 'Contact & WhatsApp Booking – TwinCity Appartments';
-const description = 'Call or WhatsApp 0313-0539832 to book a room or apartment in Bahria Town today. Email, map and 24/7 booking line for same-day stays.';
+const description = 'Call or WhatsApp 0319-9193124 to book a room or apartment in Bahria Town today. Email, map and 24/7 booking line for same-day stays.';
 export const metadata = pageMeta({ path: '/contact/', title, description });
 
 export default function Contact() {
