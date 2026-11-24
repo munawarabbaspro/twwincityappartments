@@ -62,7 +62,7 @@ export const EVENTS: PageDef[] = [
     description: 'Host an intimate nikah ceremony in a decorated apartment in Bahria Town. Stage-style decor, seating, food on demand and rooms for the families. Book now.',
     h1: 'Nikah Ceremony Venue in Bahria Town', keyword: 'nikah ceremony venue Bahria Town',
     secondary: ['small nikah venue Rawalpindi', 'nikah decoration at home', 'nikkah ceremony Islamabad'],
-    answer: 'TwinCity Appartments hosts small, private nikah ceremonies in decorated apartments in Bahria Town, with floral decor, seating, food on demand and rooms for the bride\'s and groom\'s families. Contact 0313-0539832 on WhatsApp for a package quote.',
+    answer: 'TwinCity Appartments hosts small, private nikah ceremonies in decorated apartments in Bahria Town, with floral decor, seating, food on demand and rooms for the bride\'s and groom\'s families. Contact 0319-9193124 on WhatsApp for a package quote.',
     intro: [
       'More families now prefer a simple, elegant nikah with close relatives instead of an expensive hall. Our spacious apartments can be set up for an intimate ceremony with decoration, seating and food, plus private rooms for the bride to get ready.',
       'You focus on the moment; we handle the setup and clean-up.',
@@ -118,7 +118,7 @@ export const EVENTS: PageDef[] = [
     description: 'Host mehndi, mayun, dholki and small marriage functions in a decorated apartment in Bahria Town. Decor, food on demand and guest rooms. Book now.',
     h1: 'Small Marriage Functions in Bahria Town', keyword: 'mehndi venue Bahria Town',
     secondary: ['dholki venue Rawalpindi', 'mayun decoration', 'small wedding function apartment'],
-    answer: 'TwinCity Appartments hosts small marriage functions such as dholki, mayun and mehndi in decorated apartments in Bahria Town, with traditional decor, seating, food on demand and rooms for guests. Ask on WhatsApp (0313-0539832) for a package.',
+    answer: 'TwinCity Appartments hosts small marriage functions such as dholki, mayun and mehndi in decorated apartments in Bahria Town, with traditional decor, seating, food on demand and rooms for guests. Ask on WhatsApp (0319-9193124) for a package.',
     intro: [
       'Not every wedding function needs a marquee. Dholki nights, mayun and small mehndi gatherings feel warmer at home, but many family homes are too small or too busy. Our decorated apartments give you the space without the hall prices.',
       'We handle the decoration, seating and food, so the family can enjoy the music and the moment.',
