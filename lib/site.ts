@@ -10,6 +10,8 @@ export const SITE = {
   phoneDisplay: '0319-9193124',
   phoneIntl: '+923199193124',
   whatsapp: '923199193124',
+  // Sister business (same owners): hotel in Bahria Town Phase 4
+  sisterHotel: { name: 'Grand Empire Hotel', url: 'https://grandempirehotel.com/', area: 'Bahria Town Phase 4' },
   emailInfo: 'info@twincityappart.com',
   emailBooking: 'booking@twincityappartments.com',
   address: {
