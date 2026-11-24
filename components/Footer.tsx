@@ -52,6 +52,7 @@ export default function Footer() {
               <p className="flex gap-3"><Mail className="mt-0.5 h-4 w-4 shrink-0 text-bronze-soft" strokeWidth={1.25} /><span className="flex flex-col gap-1"><a href={`mailto:${SITE.emailBooking}`} className="link-u w-fit break-all hover:text-paper">{SITE.emailBooking}</a><a href={`mailto:${SITE.emailInfo}`} className="link-u w-fit break-all hover:text-paper">{SITE.emailInfo}</a></span></p>
               <p className="flex gap-3"><Clock className="mt-0.5 h-4 w-4 shrink-0 text-bronze-soft" strokeWidth={1.25} />{SITE.hours}</p>
             </address>
+            <p className="mt-4 text-[0.875rem] text-paper/75">Prefer a hotel? Our sister property <a href={SITE.sisterHotel.url} target="_blank" rel="noopener" className="link-u text-paper hover:text-paper">{SITE.sisterHotel.name}</a> is in {SITE.sisterHotel.area}.</p>
             {social.length > 0 && (
               <ul className="mt-6 flex gap-2">
                 {social.map((s) => (
