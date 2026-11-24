@@ -10,14 +10,14 @@ import { WhatsAppIcon } from '@/components/Icons';
 import QuickBook from '@/components/QuickBook';
 import ListingCard from '@/components/ListingCard';
 
-const TITLE = 'Daily Rooms & Apartments in Bahria Town | TwinCity Appartments';
-const DESC = 'Book daily rental rooms, single & double bed rooms and furnished apartments in Bahria Town. Short time from Rs 4,500, nights from Rs 6,000. Book on WhatsApp.';
+const TITLE = 'Rooms & Flats for Rent in Bahria Town Rawalpindi | TwinCity';
+const DESC = 'Per day rooms and furnished flats for rent in Bahria Town Rawalpindi, Phase 4, 7 & 8. Short time Rs 4,500, night Rs 6,000, monthly from Rs 55k. WhatsApp to book.';
 
 export const metadata = pageMeta({
   path: '/',
   title: TITLE,
   description: DESC,
-  keywords: ['daily rental rooms Bahria Town', 'rooms near me', 'daily apartment booking', 'cheap rooms near me', 'guest house Bahria Town', 'apartments for rent in bahria town rawalpindi'],
+  keywords: ['flats for rent in Bahria Town Rawalpindi', 'per day room for rent in Bahria Town Rawalpindi', 'furnished apartment for rent in Bahria Town Rawalpindi', 'Bahria Town flat for rent per day', 'Airbnb Bahria Town Rawalpindi', 'daily rental rooms Bahria Town', 'guest house Bahria Town', 'apartments for rent in bahria town rawalpindi'],
 });
 
 const FAQS = [
