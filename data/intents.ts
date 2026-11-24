@@ -136,7 +136,7 @@ export const INTENTS: PageDef[] = [
     title: 'Daily Rooms Near Islamabad – Bahria Town Value Stays',
     description: 'Visiting Islamabad? Bahria Town rooms and apartments offer more space for less, a short drive from the city. Daily, weekly and monthly from Rs 4,500.',
     h1: 'Daily Rooms Near Islamabad', keyword: 'daily rooms Islamabad',
-    secondary: ['cheap rooms Islamabad', 'guest house Islamabad per day'],
+    secondary: ['Airbnb Bahria Town Islamabad', 'Bahria Town Islamabad apartments for rent', 'cheap rooms Islamabad', 'guest house Islamabad per day'],
     answer: 'For visitors to Islamabad, TwinCity Appartments in Bahria Town offers daily rooms from Rs 6,000 per night and short stays from Rs 4,500, usually with more space than similarly priced rooms in central Islamabad. Bahria Enclave stays are also available on the Islamabad side.',
     intro: [
       'Rooms in central Islamabad sectors can be expensive and small. Bahria Town, on the Rawalpindi side of the Expressway, gives you larger rooms and full apartments at lower prices, with Islamabad a short drive away.',
@@ -174,7 +174,7 @@ export const INTENTS: PageDef[] = [
     faqs: [
       { q: 'What is the cheapest room per day in Rawalpindi with you?', a: 'A short-time single room at Rs 4,500. A full night starts at Rs 6,000.' },
       { q: 'Is Bahria Town part of Rawalpindi?', a: 'Yes, Bahria Town Phases 1–8 are in Rawalpindi.' },
-      { q: 'Rawalpindi mein per day room kahan milega?', a: 'Bahria Town mein TwinCity Appartments par. WhatsApp karein 0313-0539832.' },
+      { q: 'Rawalpindi mein per day room kahan milega?', a: 'Bahria Town mein TwinCity Appartments par. WhatsApp karein 0319-9193124.' },
       CHECKIN_FAQ,
     ],
     images: pickImages('rawalpindi', 6),
@@ -335,10 +335,10 @@ export const INTENTS: PageDef[] = [
   // ---------- D3 Budget & quality ----------
   {
     slug: 'cheap-rooms-bahria-town', group: 'budget', menu: 'Cheap Rooms',
-    title: 'Cheap Rooms in Bahria Town – Clean & Verified',
+    title: 'Cheap Rooms in Bahria Town Rawalpindi – Clean & Verified',
     description: 'Budget rooms in Bahria Town that are still clean, safe and verified. Short time from Rs 4,500, nights from Rs 6,000. See the lowest prices now.',
     h1: 'Cheap Rooms in Bahria Town', keyword: 'cheap rooms in Bahria Town',
-    secondary: ['cheap rooms near me', 'sasta room Bahria Town', 'budget guest house'],
+    secondary: ['cheap Airbnb Rawalpindi', 'cheap rooms near me', 'sasta room Bahria Town', 'budget guest house'],
     answer: 'The most affordable options at TwinCity Appartments are a short-time single room at Rs 4,500 (2–4 hours) and a full-night single room at Rs 6,000. Monthly rooms start at Rs 55,000. All rooms are clean, verified and include AC and Wi-Fi.',
     intro: [
       'Cheap should not mean dirty or unsafe. Our budget options are the same clean, verified rooms as the rest of our stock; you simply pay for a smaller room or a shorter stay.',
@@ -440,7 +440,7 @@ export const INTENTS: PageDef[] = [
     description: 'In or near Bahria Town and need a room now? See rooms and apartments available tonight closest to you, from Rs 4,500. Book in minutes on WhatsApp.',
     h1: 'Rooms Near You, Available Tonight', keyword: 'rooms near me',
     secondary: ['apartment near me', 'guest house near me', 'daily rental rooms near me'],
-    answer: 'If you are in or near Bahria Town Rawalpindi, TwinCity Appartments can usually offer a room the same day. Send your live location on WhatsApp to 0313-0539832 and we suggest the closest available room. Prices start at Rs 4,500.',
+    answer: 'If you are in or near Bahria Town Rawalpindi, TwinCity Appartments can usually offer a room the same day. Send your live location on WhatsApp to 0319-9193124 and we suggest the closest available room. Prices start at Rs 4,500.',
     intro: [
       'Searching "rooms near me" usually means you need a room soon. The fastest way: send us your live location on WhatsApp. We reply with the closest available room, price and directions.',
       'We have units across Bahria Town phases, so there is often one just a few minutes from you.',
@@ -466,7 +466,7 @@ export const INTENTS: PageDef[] = [
     description: 'Need a room today? Same-day and late-night check-in for rooms and apartments across Bahria Town. Call or WhatsApp to book in minutes. From Rs 4,500.',
     h1: 'Same-Day & Last-Minute Booking', keyword: 'same day room booking Bahria Town',
     secondary: ['last minute hotel Rawalpindi', 'late night check in'],
-    answer: 'TwinCity Appartments accepts same-day and last-minute bookings in Bahria Town, including late-night check-in, subject to availability. Call or WhatsApp 0313-0539832. Short stays start at Rs 4,500 and nights at Rs 6,000.',
+    answer: 'TwinCity Appartments accepts same-day and last-minute bookings in Bahria Town, including late-night check-in, subject to availability. Call or WhatsApp 0319-9193124. Short stays start at Rs 4,500 and nights at Rs 6,000.',
     intro: [
       'Plans change: a flight is delayed, a function runs late, a guest arrives unexpectedly. We keep rooms ready for same-day guests.',
       'Call or WhatsApp and we confirm within minutes.',
@@ -476,7 +476,7 @@ export const INTENTS: PageDef[] = [
       { h2: 'Late-night arrivals', p: ['If you arrive after midnight, tell us in advance so our host is ready at the door.'] },
     ],
     faqs: [
-      { q: 'Can I book a room right now?', a: 'Yes, call or WhatsApp 0313-0539832 to check live availability.' },
+      { q: 'Can I book a room right now?', a: 'Yes, call or WhatsApp 0319-9193124 to check live availability.' },
       { q: 'Is there an extra charge for late check-in?', a: 'No extra charge for normal late arrivals when you tell us in advance.' },
       { q: 'Do I need to pay in advance for same-day bookings?', a: 'Usually no; payment is on arrival.' },
       CHECKIN_FAQ,
